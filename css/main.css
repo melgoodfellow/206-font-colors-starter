@@ -47,8 +47,7 @@ p {
   }
   p {
     color: #7b8f8e;
-  }
-}
+  } 
 
 /* ----------- For screens 1200px wide and larger (desktops)----------- */
 @media (min-width: 1200px) {
